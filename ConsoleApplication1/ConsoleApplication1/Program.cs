@@ -10,7 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+          
             int a = 25;
+            int b = 2 * a;
             Console.WriteLine("a");
         }
     }
